@@ -9,5 +9,4 @@ as the controls the kde probablity will be high and vice versa.
 
 Here's an output from the example:
 
-Inline-style: 
 ![alt text](https://github.com/dansileshi/Eye-Movement-kde-analysis/blob/master/output.png)
