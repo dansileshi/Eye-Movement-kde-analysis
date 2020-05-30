@@ -10,4 +10,4 @@ Here's an output from the example:
 
 The kde analysis 
 
-[Here is an example of analysing a real eye movement data using kde](https://www.youtube.com/watch?v=PyDDjMhkq5M) The visualization shows similarity among participants who watched the video with no (green), moderate (yellow), and advanced (red) simulated vision loss. 
+[Here is an example of analysing a real eye movement data using kde.](https://www.youtube.com/watch?v=PyDDjMhkq5M) The visualization shows similarity among participants who watched the video with no (green), moderate (yellow), and advanced (red) simulated vision loss. 
