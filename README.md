@@ -10,3 +10,7 @@ as the controls the kde probablity will be high and vice versa.
 Here's an output from the example:
 
 ![alt text](https://github.com/dansileshi/Eye-Movement-kde-analysis/blob/master/output.png)
+
+The kde analysis 
+
+[Here is an example result of analysing a real eye movement data using kde](https://www.youtube.com/watch?v=PyDDjMhkq5M)
