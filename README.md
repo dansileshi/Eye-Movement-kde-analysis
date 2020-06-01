@@ -2,7 +2,7 @@
 
 Kernel density estimation (KDE) can be used to measure simillarity in eye movements between observers. 
 This can be eye movements of two groups (paitents vs contorls) or within one group. 
-This example demonstrates gaze data from observers collected while they viewed an image. Before computing the KDE, outliers from the normal group (red data point shown in the figure) are discarded using isolation forest algorithm. The KDE function was used to compute the probability of the average gaze positions of an observer (blue data point) in based on the data from controls. If the observer viewed in the same location (region) as the controls the kde probablity will be high and vice versa.
+This example demonstrates gaze data from observers collected while they viewed an image. Before computing the KDE, outliers from the normal group (red data point shown in the figure) are discarded using isolation forest algorithm. The KDE computes the probability of the average gaze positions of an observer (blue data point) using the data from controls. If the observer view in the same location (region) as the controls the kde probablity will be high and vice versa.
 
 Here's an output from the example:
 
